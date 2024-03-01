@@ -3,7 +3,11 @@
 - hwan2v@gmail.com
 
 ## 경력 사항
-### NAVER: 2013년 7월 ~ 재직중
+### smilegate megaport: 2023년 4월 ~ 재직중
+#### 1. Stove Store 검색 시스템 개발
+> Store에 입점한 게임에 대해 검색  개발했습니다.
+
+### NAVER: 2013년 7월 ~ 2023년 4월
 
 #### 1. Web Crawler 시스템 개발 2013.07 ~ 2022.03 (9년)
 > Web Crawler는 인터넷상의 웹사이트를 우선순위 별로 방문하여 콘텐츠를 수집합니다. 또한, 비정형 웹페이지를 검색이 가능한 정형화된 데이터로 저장하고 색인 시스템에 전달하는 역할도 담당합니다. NAVER Web Crawler는 수백억 규모의 문서 및 수조 단위의 링크를 다루는 대용량 시스템입니다.
@@ -66,6 +70,8 @@
 - 대용량 데이터 처리를 위한 HBase 설계 및 운영
 - 캐시 시스템을 위한 Redis 구축 및 운영
 - mongodb 구축 및 운영
+- nestjs를 활용한 RESTful API 설계 및 구현
+- elasticsearch로 검색 시스템 구현
 
 ### 데이터 마이닝
 - Hadoop Map Reduce를 활용한 대용량 데이터 가공 경험
