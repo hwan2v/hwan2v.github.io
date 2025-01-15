@@ -3,9 +3,17 @@
 - hwan2v@gmail.com
 
 ## 경력 사항
-### smilegate megaport: 2023년 4월 ~ 재직중
-#### 1. Stove Store 검색 시스템 개발
-> Store에 입점한 게임에 대해 검색  개발했습니다.
+
+### SMILEGATE MEGAPORT: 2023년 4월 ~ 2025년 6월
+#### 1. 스토브 스토어 검색 시스템 개발 2023년 4월 ~ 2023년 9월
+> https://www.onstove.com 게임 상품 검색 시스템을 개발했습니다.
+- 이력
+- 성과
+
+#### 2. 스토브 추천 시스템 개발 2023년 9월 ~ 2024년 12월
+> https://www.onstove.com, stoveapp, stovelauncher 게임 상품 검색 시스템을 개발했습니다.
+- 이력
+- 성과
 
 ### NAVER: 2013년 7월 ~ 2023년 4월
 
