@@ -73,16 +73,18 @@
 
 ### 백엔드 기술
 - spring boot를 활용 RESTful API 설계 및 구현, JPA, Mybatis 기반 DB 핸들링
-- 시계열 통계 정보를 제공하기 위한 elastic search 구축 및 운영
+- 시계열 통계 정보를 제공하기 위한 elasticsearch 구축 및 운영
 - 서비스 요구사항에 맞는 MySQL DB 설계 및 운영
 - 대용량 데이터 처리를 위한 HBase 설계 및 운영
 - 캐시 시스템을 위한 Redis 구축 및 운영
 - mongodb 구축 및 운영
 - nestjs를 활용한 RESTful API 설계 및 구현
 - elasticsearch로 검색 시스템 구현
+- python, fastapi를 이용한 모델 API 설계 및 구현
+- python, mlflow로 모델 학습, 관리 운영
 
 ### 데이터 마이닝
-- Hadoop Map Reduce를 활용한 대용량 데이터 가공 경험
+- Hadoop,  MapReduce, Spark를 활용한 대용량 데이터 가공 경험
 - batch job 운영에 필요한 bash, python 활용 능력
 
 ### 시스템 인프라
